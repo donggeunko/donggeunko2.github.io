@@ -2,6 +2,7 @@
 title: "Donggeun Sean Ko"
 description: "A resume template for Jekyll and GitHub Pages sites."
 published: true
+future: true
 
 # Build settings
 markdown: kramdown
@@ -59,7 +60,6 @@ resume_print_social_links:      true
 # Design settings
 resume_theme:                   default
 
-future: true
 
 # Note: when editing locally, remember to restart
 # your Jekyll server when you edit this file. Changes
