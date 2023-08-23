@@ -1,7 +1,8 @@
 # Associations
+# I tried to fix it with Publications...
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
+- organization: **AmpliBias** : whatever
   role: Volunteer
   year: 2001 &mdash; 2010
   url: https://www.peta.org/
