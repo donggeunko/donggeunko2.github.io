@@ -3,6 +3,7 @@ title: "Donggeun Sean Ko"
 description: "A resume template for Jekyll and GitHub Pages sites."
 published: true
 future: true
+timezone: Asia/Seoul
 
 # Build settings
 markdown: kramdown
