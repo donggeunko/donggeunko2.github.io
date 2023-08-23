@@ -1,5 +1,5 @@
 # Site settings
-title: "Donggeun "Sean" Ko"
+title: "Donggeun Sean Ko"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Donggeun 'Sean' Ko"
+resume_name:                    "Donggeun Sean Ko"
 resume_title:                   "About Me"
 
 # used for the contact button in _layouts/resume.html
